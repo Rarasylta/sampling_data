@@ -1,3 +1,4 @@
+# untuk menjalankan program, pada command window/WSL ketikkan ./sampling.sh
 # penjelasan kode yang berada di dalam sampling.sh pada repository sampling_data
 # mendefinisikan shebang:
 #!/usr/bin/bash 
